@@ -1,0 +1,26 @@
+{
+  "admin": {
+    "username": "naraka",
+    "password": "738f3ad019d29c1d2d1901f5a333b61e",
+    "loginToken": "ffffed44c4f4a1132dea332cb21f8a57",
+    "logs": [
+      {
+        "time": "2022-07-27T16:24:22.463Z",
+        "type": "ERROR",
+        "message": "Build Failed - Wrong Java Version Installed. Detected openjdk version \"11.0.15\" 2. Please use Java 1.8.0"
+      },
+      {
+        "time": "2022-07-29T10:56:55.788Z",
+        "type": "ERROR",
+        "message": "Build Failed - Wrong Java Version Installed. Detected openjdk version \"11.0.15\" 2. Please use Java 1.8.0"
+      },
+      {
+        "time": "2022-08-04T16:23:52.987Z",
+        "type": "ERROR",
+        "message": "Build Failed - Wrong Java Version Installed. Detected openjdk version \"11.0.15\" 2. Please use Java 1.8.0"
+      }
+    ],
+    "ipLog": []
+  },
+  "clients": []
+}
